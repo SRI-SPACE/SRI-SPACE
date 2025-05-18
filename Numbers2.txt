@@ -1,0 +1,14 @@
+public class Numbers2 {
+
+    public static void main(String[] args) {
+        System.out.println("While Loop:");
+        int i=10;
+        while(i<=50){
+         System.out.println(i);
+         i++;
+        }
+
+        
+    }
+    
+}
